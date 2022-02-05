@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">AssessmentApp</string>
+    <string name="ok">ok</string>
+
+    <string name="BASE_URL">https://blogswizards.com/mobile_app_assignment/api/</string>
+
+</resources>
